@@ -1,0 +1,4 @@
+#Wed May 06 17:36:12 IST 2020
+base.0=/home/psyche16/AndroidStudioProjects/flutter-webrtc-demo/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

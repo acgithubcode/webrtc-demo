@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/psyche16/AndroidStudioProjects/flutter-webrtc-demo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml",
+            "map": [
+                {
+                    "source": "/home/psyche16/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8070f3698ab41f3e5e47ef41a2b33d2a/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

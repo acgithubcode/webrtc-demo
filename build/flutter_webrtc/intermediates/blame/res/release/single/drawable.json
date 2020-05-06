@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/psyche16/AndroidStudioProjects/flutter-webrtc-demo/build/flutter_webrtc/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/psyche16/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8070f3698ab41f3e5e47ef41a2b33d2a/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/psyche16/AndroidStudioProjects/flutter-webrtc-demo/build/flutter_webrtc/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/psyche16/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8070f3698ab41f3e5e47ef41a2b33d2a/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/psyche16/AndroidStudioProjects/flutter-webrtc-demo/build/flutter_webrtc/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/psyche16/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8070f3698ab41f3e5e47ef41a2b33d2a/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/psyche16/AndroidStudioProjects/flutter-webrtc-demo/build/flutter_webrtc/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/psyche16/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8070f3698ab41f3e5e47ef41a2b33d2a/res/drawable/notification_tile_bg.xml"
+    }
+]

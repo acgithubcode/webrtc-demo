@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/psyche16/Devlopment/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+2/android/src/main/assets"/><source path="/home/psyche16/AndroidStudioProjects/flutter-webrtc-demo/build/path_provider_macos/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/psyche16/Devlopment/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+2/android/src/release/assets"/></dataSet></merger>
